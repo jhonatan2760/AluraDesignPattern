@@ -20,4 +20,8 @@ public class Orcamento {
         return Collections.unmodifiableList(this.itens);
     }
 
+    public void setItens(List<Item> itens){
+        this.itens = itens;
+    }
+
 }
