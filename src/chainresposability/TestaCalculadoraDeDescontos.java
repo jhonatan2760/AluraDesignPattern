@@ -1,4 +1,4 @@
-package chainresposability;
+package src.chainresposability;
 
 import java.util.Arrays;
 

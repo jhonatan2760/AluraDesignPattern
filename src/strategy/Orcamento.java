@@ -1,4 +1,4 @@
-package strategy;
+package src.strategy;
 
 public class Orcamento {
 

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ComputerTestBuilder",
+            "request": "launch",
+            "mainClass": "src.builder.ComputerTestBuilder",
+            "projectName": "designpatterns_f2d7d93f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestaCalculadoraDeDescontos",
             "request": "launch",
             "mainClass": "chainresposability.TestaCalculadoraDeDescontos",

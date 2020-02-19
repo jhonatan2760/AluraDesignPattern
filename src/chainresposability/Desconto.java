@@ -1,4 +1,4 @@
-package chainresposability;
+package src.chainresposability;
 
 public interface Desconto {
 
